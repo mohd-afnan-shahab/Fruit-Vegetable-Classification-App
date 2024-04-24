@@ -6,7 +6,7 @@ tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
 tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0
+tensorflow==2.12.0
 tensorflow-io-gcs-filesystem==0.31.0
 pillow
 keras==2.12.0
